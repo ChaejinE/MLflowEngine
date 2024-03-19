@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 mlflow = "*"
+hyperopt = "*"
+keras = "*"
+tensorflow = "*"
 
 [dev-packages]
 
